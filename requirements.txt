@@ -2,3 +2,4 @@ Flask==0.10.1
 requests
 future==0.16.0
 pymongo
+google-api-python-client
